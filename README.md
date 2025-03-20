@@ -8,7 +8,7 @@ We have used PyLucene for making index of the documents and retriving the docume
 
 ## Finding the suitable weighted query
 
-### terms of the query
+### Terms of the query
 The terms in our constructed query is just the important words from the relevant documents, can be found by Roccio Algorithm or finding the most frequent terms in the relevant documents after filtering the stopwords.
 
 ### Weights of the terms in the query
